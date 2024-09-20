@@ -1,0 +1,159 @@
+{
+	"name": "Wafy list",
+	"url":"https://wafy80.github.io/w3u",
+	"author": "Wafy80",
+	"image": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg",
+	"groups": [
+		{
+            "name":"LiveTv",
+            "url":"http://wafy.eu.org:56888",
+			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dgKtA6aKRRqqWsm0fuK_GhC-F4ITX5xXCw&s"
+		},
+      
+        {
+        "name":"Canali TV",
+		"image":"https://cdn-icons-png.flaticon.com/512/2052/2052138.png",
+        "stations":[
+            {
+            "name":"Golazo! Network",
+            "image":"https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/0267a27d/DRAFTGolazoAnnouncementRelease03062023FINAL_html_57bcdd2557c25f59.png",
+            "url":"https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8"			
+            },
+            {
+            "name":"CBC Sport",
+            "image":"https://www.cbcsport.az/assets_new/logo/logo.png",
+            "url":"https://www.canlitv.vin/cbc-sport-canli-online"
+            },            
+            {
+            "name":"Persiana Sports",
+            "image":"https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
+            "url":"https://www.parsatv.com/name=Persiana-Sports"
+            },
+            {
+            "name":"Varzish Sport",
+            "image":"https://i.goalzz.com/?i=logo_sport%2fvarzish_sport_tv_tj.jpg",
+            "url":"https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/varzish-tv"
+            },          
+            {
+            "name":"Turkmenistan Sport",
+            "image":"https://turkmentv.gov.tm/video_turkmen_sport.jpg",
+            "url":"https://alpha.tv.online.tm/hls/ch004.m3u8"
+            },
+            {
+            "name":"RTA Sport",
+            "image":"https://www.afghanlive.tv/wp-content/uploads/2020/03/rta-sport-afghanistan-live.jpg",
+            "url":"http://www.afghanlive.tv/rta-sport-live/"
+            },          
+            {
+            "name":"Golazo! Network",
+            "image":"https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png",
+            "url":"https://pluto.tv/live-tv/63a0e33a45264d000850ed7e",
+			"info":"VPN Stati Uniti"
+            },
+			{
+            "name":"Match! TV",
+            "image":"https://cdn-assets.matchtv.ru/build/assets/images/icons/plugs/matchtv.6643d8b7.jpg",
+            "url":"https://video.matchtv.ru/iframe/channel/106",
+			"info":"VPN Russia"
+            },
+            {
+            "name":"CBC Sport",
+            "image":"https://www.cbcsport.az/assets_new/logo/logo.png",
+            "url":"https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8",
+			"info":"VPN Azerbaijan"
+            },
+     
+            ]
+        },				
+        {
+        "name":"Daddy",
+        "stations":[
+            {
+            "name":"CH 501",
+            "url":"https://daddylivehd.sx/stream/stream-501.php"
+            },
+            {
+            "name":"CH 502",
+            "url":"https://daddylivehd.sx/stream/stream-502.php"
+            },
+            {
+            "name":"CH 503",
+            "url":"https://daddylivehd.sx/stream/stream-503.php"
+            },
+            {
+            "name":"CH 504",
+            "url":"https://daddylivehd.sx/stream/stream-504.php"
+            },
+            {
+            "name":"CH 505",
+            "url":"https://daddylivehd.sx/stream/stream-505.php"
+            },
+            {
+            "name":"CH 506",
+            "url":"https://daddylivehd.sx/stream/stream-506.php"
+            },
+            {
+            "name":"CH 507",
+            "url":"https://daddylivehd.sx/stream/stream-507.php"
+            },
+            {
+            "name":"CH 508",
+            "url":"https://daddylivehd.sx/stream/stream-508.php"
+            },
+            {
+            "name":"CH 509",
+            "url":"https://daddylivehd.sx/stream/stream-509.php"
+            },
+            {
+            "name":"CH 510",
+            "url":"https://daddylivehd.sx/stream/stream-510.php"
+            },
+            {
+            "name":"CH 511",
+            "url":"https://daddylivehd.sx/stream/stream-511.php"
+            },
+            {
+            "name":"CH 512",
+            "url":"https://daddylivehd.sx/stream/stream-512.php"
+            },
+            {
+            "name":"CH 513",
+            "url":"https://daddylivehd.sx/stream/stream-513.php"
+            },
+            {
+            "name":"CH 514",
+            "url":"https://daddylivehd.sx/stream/stream-514.php"
+            },
+            {
+            "name":"CH 515",
+            "url":"https://daddylivehd.sx/stream/stream-515.php"
+            },
+            {
+            "name":"CH 516",
+            "url":"https://daddylivehd.sx/stream/stream-516.php"
+            },
+            {
+            "name":"CH 517",
+            "url":"https://daddylivehd.sx/stream/stream-517.php"
+            },
+            {
+            "name":"CH 518",
+            "url":"https://daddylivehd.sx/stream/stream-518.php"
+            },
+            {
+            "name":"CH 519",
+            "url":"https://daddylivehd.sx/stream/stream-519.php"
+            },
+            {
+            "name":"CH 520",
+            "url":"https://daddylivehd.sx/stream/stream-520.php"
+            },
+             
+            ]
+            
+        },
+		
+	]
+      
+              
+}
