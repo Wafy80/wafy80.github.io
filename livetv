@@ -12,8 +12,8 @@
 		{
             "name":"Project",
             "url":"https://github.com/Wafy80/livetv_w3u",
-			"image":"https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-			"embed":true
+			"embed":true,
+			"image":"https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
 		}
 	]
 }
