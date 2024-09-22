@@ -8,6 +8,12 @@
             "name":"LiveTv",
             "url":"http://wafy.eu.org:56888",
 			"image":"https://cdn.livetv800.me/img/logo_en.jpg"
+		},
+		{
+            "name":"Project",
+            "url":"https://github.com/Wafy80/livetv_w3u",
+			"image":"https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+			"embed":true
 		}
 	]
 }
