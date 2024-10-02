@@ -6,7 +6,7 @@
     "groups": [
         {
             "name":"LiveTv",
-            "url":"http://wafy.eu.org:56890",
+            "url":"http://wafy.eu.org:56880/livetv.w3u",
             "image":"https://cdn.livetv800.me/img/logo_en.jpg"
         }
     ],
